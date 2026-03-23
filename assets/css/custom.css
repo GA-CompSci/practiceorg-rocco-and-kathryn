@@ -1,0 +1,23 @@
+/**
+colors
+https://coolors.co/809bce-95b8d1-b8e0d2-d6eadf-eac4d5
+
+809bce Wisteria Blue
+95b8d1 Powder Blue
+b8e0d2 Pearl Aqua 
+d6eadf Honeydew
+eac4d5 Pastel Petal 
+**/
+
+body {
+    background-color: var(--wisteria-blue);
+    color: rgb(27, 15, 118);
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Cinzel", serif !important;
+}
+div,body,p, .font-mont {
+  font-family: "Montserrat", sans-serif !important;
+}

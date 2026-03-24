@@ -10,8 +10,8 @@ eac4d5 Pastel Petal
 **/
 
 body {
-    background-color: var(--wisteria-blue);
-    color: rgba(43, 20, 213, 0.471);
+    background-color: #809bce
+    color: rgba(0, 0, 0, 0.471);
 }
 
 
@@ -19,5 +19,4 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Cinzel", serif !important;
 }
 div,body,p, .font-mont {
-  font-family: "Montserrat", sans-serif !important;
-}
+   font-family: "Cinzel", serif !important;

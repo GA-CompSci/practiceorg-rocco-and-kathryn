@@ -1,7 +1,8 @@
 /**
 colors
 https://coolors.co/809bce-95b8d1-b8e0d2-d6eadf-eac4d5
-
+1b263b Prussian Blue
+16425b Yale Blue
 809bce Wisteria Blue
 95b8d1 Powder Blue
 b8e0d2 Pearl Aqua 
@@ -10,13 +11,39 @@ eac4d5 Pastel Petal
 **/
 
 body {
-    background-color: #809bce
-    color: rgba(0, 0, 0, 0.471);
+    background-color: #1b263b;
 }
 
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "Cinzel", serif !important;
 }
-div,body,p, .font-mont {
-   font-family: "Cinzel", serif !important;
+
+div,
+body,
+p,
+.font-play {
+    font-family: "Playfair Display", serif !;
+}
+
+/**** HERO ****/
+#hero {
+    background-color: #1b263b;
+   
+}
+
+#hero h4 {
+    color: aqua !important;
+
+}
+#hero .stroke-text {
+  color: rgb(255, 255, 255);
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1.0px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+}
